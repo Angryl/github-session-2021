@@ -1,3 +1,6 @@
+[link for the complete readme reference](https://github.com/Angryl/Readme-Guide)
+
+
 # this is heading 1
 ##  is a heading 2
 ###### this is heading 6
@@ -9,24 +12,22 @@ bold
 *this text will be italic*
 
 list
-1
-2
-3
-4
 
-*
-*
-*
-*
 ordered list
-1. item 2
-2. item 3
-  1. sublist
-  2. sublist 1
-  3. sublist 3
+1. item 
+2. item 
+3. item3
+ 1. sub1
+ 1. su
 
 
-ew begning
+new begning
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
 
 unordered list
 * item1
