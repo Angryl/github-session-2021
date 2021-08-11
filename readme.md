@@ -20,7 +20,21 @@ ordered list
  1. sub1
  1. su
 
+***
+### Nested-List
 
+1. Fruits
+  1. Apple
+  2. fig
+  3. Blackberry
+  4. Gooseberry
+  5. mulberry
+2. Vegetables
+3. Pulses
+  1. Green Gram
+  1. Black Gram
+  2. Sago 
+***
 new begning
 1. Item 1
 1. Item 2
